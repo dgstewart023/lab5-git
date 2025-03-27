@@ -1,0 +1,8 @@
+/Users/danielstewart/Desktop/cs480/vr-storytelling/.utmp/RelWithDebInfo/c2y4lm4l/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/danielstewart/Desktop/cs480/vr-storytelling/.utmp/RelWithDebInfo/c2y4lm4l/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/danielstewart/Desktop/cs480/vr-storytelling/.utmp/RelWithDebInfo/c2y4lm4l/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/danielstewart/Desktop/cs480/vr-storytelling/.utmp/RelWithDebInfo/c2y4lm4l/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/danielstewart/Desktop/cs480/vr-storytelling/.utmp/RelWithDebInfo/c2y4lm4l/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/danielstewart/Desktop/cs480/vr-storytelling/.utmp/RelWithDebInfo/c2y4lm4l/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/danielstewart/Desktop/cs480/vr-storytelling/.utmp/RelWithDebInfo/c2y4lm4l/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/danielstewart/Desktop/cs480/vr-storytelling/.utmp/RelWithDebInfo/c2y4lm4l/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
